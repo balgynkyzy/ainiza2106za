@@ -19,5 +19,12 @@
   color :#fff
   curcor:pointer 
   }
-
+  
+.bin 
+backgraund-color;red
+display:inline-block;
+padding:10pх 15pх:
+color :#fff
+curcor:pointer 
+}
  
